@@ -1,5 +1,6 @@
 requests
 Django
+django-types
 Pillow
 gunicorn
 python-dotenv
